@@ -17,7 +17,7 @@
 const CONFIG = {
 
   // 👉 1. Je Adafruit IO gebruikersnaam
-  AIO_USERNAME: "ThomasRoelandt",
+  AIO_USERNAME: "JOUW_GEBRUIKERSNAAM",
 
   // 👉 2. Je Adafruit IO key: LAAT DIT LEEG ("")!
   //    Alles op GitHub Pages is openbaar. Zet in Adafruit IO je feeds op
